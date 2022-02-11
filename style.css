@@ -1,3 +1,9 @@
+@import url('https://fonts.googleapis.com/css2?family=Quicksand:wght@300;400;500;600;700&display=swap');
 body {
     width: 180px;
+    font-family: "Quicksand";
+}
+
+.container {
+    background-color: rgb(37, 28, 46);
 }
